@@ -1,6 +1,6 @@
-##Arduino Intro Lab - Group Project
+## Arduino Intro Lab - Group Project
 
-#Create a Team of 2-3 Students - Create a Team Name:
+# Create a Team of 2-3 Students - Create a Team Name:
 
 Check-out an **Arduino Starter Kit**
 Pick a Team Scribe
